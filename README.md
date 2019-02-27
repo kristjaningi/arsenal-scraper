@@ -1,3 +1,7 @@
-# Arsenal API
+# Arsenal Scraper
 
-Data from Arsenal.com
+Educational purpose only
+
+## Run locally
+
+`FLASK_APP=app.py flask run`
